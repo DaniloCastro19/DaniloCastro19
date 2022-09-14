@@ -1,6 +1,6 @@
 ### Un saludo compañeros desarrolladores, Soy Danilo👋
 
-I'm a student of web programming. I don't already finish my profile, but i'm in process. I study whit pasion and dedication this career, and my main goal is contribute with my knowledge in ICT's to my country and the society in general providing solutions that makes their life easier. To make this, i'm studing to be a full stack developer.
+I'm from Colombia and i'm a student of web programming. I don't already finish my profile, but i'm in process. I study whit pasion and dedication this career, and my main goal is contribute with my knowledge in ICT's to my country and the society in general providing solutions that makes their life easier. To make this, i'm studing to be a full stack developer.
 
 This is my code presentation! :
 
