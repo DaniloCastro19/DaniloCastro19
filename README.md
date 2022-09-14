@@ -1,4 +1,4 @@
-### Un saludo compañeros desarrolladores, Soy Danilo👋
+### Hi Devs!, i'm Danilo👋
 
 I'm from Colombia and i'm a student of web programming. I haven't finished my profile yet, but i'm in process. I study whit passion and dedication this career, and my main objective is to contribute to the growth of my country and society in general through my knowledge in Information Technology providing solutions that makes their life easier. To make this, i'm studing to be a full stack developer.
 
