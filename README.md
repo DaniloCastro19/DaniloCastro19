@@ -4,16 +4,16 @@ I'm a student of web programming. I don't already finish my profile, but i'm in 
 
 This is my code presentation! :
 
-const DaniloCastro19{
+      const DaniloCastro19{
 
-      pronouns: "he","him",
-  
-      learningCode : [Javascript, Typescript, Python, SQL, HTML, CSS], 
+            pronouns: "he","him",
 
-      learningTools: [React, Django, Node, Postgresql],
+            learningCode : [Javascript, Typescript, Python, SQL, HTML, CSS], 
 
-      architecture: ["MVC", "Microservices", "Desing system patterns"]
-}
+            learningTools: [React, Django, Node, Postgresql],
+
+            architecture: ["MVC", "Microservices", "Desing system patterns"]
+      }
 
 
 
