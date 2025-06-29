@@ -4,7 +4,7 @@ I'm from Colombia and i'm a student of web programming. I haven't finished my pr
 
 This is my code presentation! :
 
-      const DaniloCastro19{
+      const DaniloCastro19 = {
 
             pronouns: "he","him",
 
